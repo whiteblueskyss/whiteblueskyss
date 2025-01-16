@@ -1,6 +1,6 @@
 ## Hi there! 👋
-
-- Hello! I'm a final-year **CSE student** at **SUST**.  
+ I'm a final-year **CSE student** at **SUST**.  
+### ✨ About me
 - **🏆 Competitive Programming**:
   - **ICPC**: Regionalist at Asia West ICPC Dhaka Regional 2024. 
   - **Codeforces**: Pupil, highest rating **1392**.  
@@ -23,7 +23,7 @@
 - **🐙 GitHub**: [whiteblueskyss](https://github.com/whiteblueskyss)
 
 
-#### ⚡Fun fact: I'm a sports enthusiast, playing football, cricket, and volleyball and I've completed a half marathon! 🏃‍♂️⚽🏏🏐
+#### ⚡Fun fact: I'm a sports enthusiast, playing football, cricket, and volleyball and also I've completed a half marathon! 🏃‍♂️⚽🏏🏐
 
 <!---
 whiteblueskyss/whiteblueskyss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
