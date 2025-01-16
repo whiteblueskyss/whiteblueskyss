@@ -1,60 +1,29 @@
+## Hi there! 👋
 
-# Hi there! 👋
-
-I'm a final-year **CSE** student at **SUST**. With a strong foundation in competitive programming and algorithms. I'm passionate about solving complex problems and building efficient, scalable applications.
-
-## 🚀 About Me
-
-- 🔭 **Software Developer and Competitive Programmer**
-  - **Programming Languages**: **C++**, **JavaScript**, **Python**, and **Java**.
-  - **Competitive Programming**:
-    - **ICPC**: Regionalist at Asia West ICPC Dhaka Regional Contest 2024.
-    - **Codeforces**: Pupil (rating **1392**).
-    - **CodeChef**: 3⭐ coder (rating **1725**).
+- Hello! I'm a final-year **CSE student** at **SUST**.  
+- **🏆 Competitive Programming**:
+  - **ICPC**: Regionalist at Asia West ICPC Dhaka Regional 2024. 
+  - **Codeforces**: Pupil, highest rating **1392**.  
+  - **CodeChef**: 3⭐ coder, highest rating **1725**.  
     
-- 🌐 **Full-Stack Web Developer (MERN Stack)**
-  - Experienced in building full-stack applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
-- 🔗 **Aspiring Blockchain Developer**
-  - Currently delving into **blockchain development**, learning about decentralized applications, smart contracts, and blockchain protocols.
+- **💻 Development Skills**:  
+  - **MERN Stack**: MongoDB, Express.js, React.js, Node.js.  
+  - **Blockchain**: Exploring decentralized applications and smart contracts.  
 
-## 💻 Technical Skills
+- **🛠️ Technical Proficiency**:  
+  - Languages: C++, JavaScript, Python, and Java.  
+  - Tools: Git, GitHub, VS Code, Sublime Text.  
 
-- **Programming & Algorithms**
-  - Strong grasp of data structures and algorithms.
-  - Experience with competitive programming challenges and problem-solving under constraints.
-- **Web Development**
-  - **Front-end**: HTML, CSS, TailwindCSS, JavaScript (ES6+), React.js.
-  - **Back-end**: Node.js, Express.js.
-  - **Databases**: MongoDB, SQL.
-- **Blockchain Development**
-  - Learning **Solidity** for smart contract development.
-  - Understanding of Ethereum blockchain and decentralized application architecture.
-- **Tools & Platforms**
-  - Version Control: Git, GitHub.
-  - Development Environments: VS Code, Sublime Text.
+### 📫 Let's Connect
 
-## 🌱 Current Focus
-- **Deepening Coding Expertise**
-  - Participating in online coding contests to sharpen problem-solving skills with DSA.
-- **Blockchain Projects**
-  - Developing smart contracts and DApps on the Ethereum platform.
-  - Experimenting with blockchain technologies to build secure and decentralized solutions.
+- **📧 Email**: [whiteblueskyss@gmail.com](mailto:whiteblueskyss@gmail.com)
+- **🔗 LinkedIn**: [whiteblueskyss](https://www.linkedin.com/in/whiteblueskyss)
+- **💻 Codeforces**: [whiteblueskyss](https://codeforces.com/profile/whiteblueskyss)
+- **👨‍💻 CodeChef**: [whiteblueskyss@gmail.com](https://www.codechef.com/users/whiteblueskyss)
+- **🐙 GitHub**: [whiteblueskyss](https://github.com/whiteblueskyss)
 
-## 📫 Let's Connect
 
-- **Email**: [whiteblueskyss@gmail.com](mailto:whiteblueskyss@gmail.com)
-- **LinkedIn**: [whiteblueskyss](https://www.linkedin.com/in/whiteblueskyss)
-- **Codeforces**: [whiteblueskyss](https://codeforces.com/profile/whiteblueskyss)
-- **CodeChef**: [whiteblueskyss@gmail.com](https://www.codechef.com/users/whiteblueskyss)
-- **GitHub**: [whiteblueskyss](https://github.com/whiteblueskyss)
-
----
-
-I'm always eager to connect with fellow developers, collaborate on exciting projects, or discuss innovative ideas. Feel free to reach out!
-
----
-
-- ⚡ Fun fact: Football, Crickt, and Volleyball Player. Half marathon Finisher. 
+#### ⚡Fun fact: I'm a sports enthusiast, playing football, cricket, and volleyball and I've completed a half marathon! 🏃‍♂️⚽🏏🏐
 
 <!---
 whiteblueskyss/whiteblueskyss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
