@@ -1,5 +1,5 @@
 ## Hi there! 👋
- I'm a final-year **CSE student** at **SUST**.  
+ I'm *Selim*, a final-year **CSE student** at **SUST**.  
 ### ✨ About me
 - **🏆 Competitive Programming**:
   - **ICPC**: Regionalist at Asia West ICPC Dhaka Regional 2024. 
