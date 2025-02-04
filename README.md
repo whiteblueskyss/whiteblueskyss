@@ -3,8 +3,8 @@
 ### ✨ About me
 - **🏆 Competitive Programming**:
   - **ICPC**: Regionalist at Asia West ICPC Dhaka Regional 2024. 
-  - **Codeforces**: Pupil, highest rating **1392**.  
-  - **CodeChef**: 3⭐ coder, highest rating **1725**.  
+  - **Codeforces**: ***Pupil***, *(1392)*.  
+  - **CodeChef**: ***3⭐ coder***, *(1725)*.  
     
 - **💻 Development Skills**:  
   - **MERN Stack**: MongoDB, Express.js, React.js, Node.js.  
