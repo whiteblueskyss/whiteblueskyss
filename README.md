@@ -7,7 +7,7 @@
   - **CodeChef**: ***3⭐ coder***, *(1725)*.  
     
 - **💻 Development Skills**:  
-  - **MERN Stack**: MongoDB, Express.js, React.js, Node.js.  
+  - **MERN Stack**: MongoDB, Express.js, React.js, Node.js, TailwindCSS.  
   - **Blockchain**: Exploring decentralized applications and smart contracts.  
 
 - **🛠️ Technical Proficiency**:  
