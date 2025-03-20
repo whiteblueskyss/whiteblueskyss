@@ -25,6 +25,8 @@
 
 #### ⚡Fun fact: I'm a sports enthusiast, playing football, cricket, and volleyball and also I've completed a half marathon! 🏃‍♂️⚽🏏🏐
 
+*"Code like a poet, debug like a detective."*
+
 <!---
 whiteblueskyss/whiteblueskyss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
