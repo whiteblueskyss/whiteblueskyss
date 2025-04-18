@@ -5,7 +5,7 @@
   - **ICPC**: Regionalist at Asia West ICPC Dhaka Regional 2024. 
   - **Codeforces**: ***Pupil***, *(1392)*. 
   - **CodeChef**: ***3⭐ coder***, *(1725)*.
-  - **Leetcode**: ***Top 12.85%**. 
+  - **Leetcode**: ***Top 12.85%***. 
     
 - **💻 Development Skills**:  
   - **MERN Stack**: MongoDB, Express.js, React.js, Node.js, TailwindCSS.  
