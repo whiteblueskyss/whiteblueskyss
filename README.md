@@ -26,10 +26,10 @@
 
 | Platform | Achievement | Rating/Performance |
 |----------|-------------|-------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/ICPC_Foundation_logo.svg" width="20"/> **ICPC** | Asia Dhaka Regional 2024 | **46th/2400+ (Preli), 136th/300+(Regional)** |
-| <img src="https://codeforces.org/s/0/apple-icon-114x114.png" width="20"/> **Codeforces** | Pupil | **Max Rating: 1392** |
-| <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="20"/> **CodeChef** | 3⭐ Coder | **Rating: 1725** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20"/> **LeetCode** | Top Performer | **Top 12.85%** |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/ICPC_Foundation_logo.svg" width="20"/> **ICPC** | Asia Dhaka Regional 2024 | *46th/2400+ (Preli), 136th/300+(Regional)* |
+| <img src="https://codeforces.org/s/0/apple-icon-114x114.png" width="20"/> **Codeforces** | Pupil | *Max Rating: 1392* |
+| <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" width="20"/> **CodeChef** | 3⭐ Coder | *Rating: 1725* |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20"/> **LeetCode** | Top Performer | *Top 12.85%* |
 
 ### 🏅 Additional Achievements
 - 🥇 **Champion** - Creative Talent Exploration Competition (2018)
@@ -102,8 +102,9 @@
 **🎓 E-Certificate on Blockchain**
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=whiteblueskyss&repo=E-Certificate-on-Ethereum-Blockchain&theme=tokyonight&hide_border=true&description_lines_count=3)](https://github.com/whiteblueskyss/E-Certificate-on-Ethereum-Blockchain)
-
+<!-- 
 *Blockchain-based certificate verification with NFTs, QR codes, and role-based access using Solidity & React.*
+-->
 
 </td>
 <td width="50%">
@@ -112,14 +113,16 @@
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=whiteblueskyss&repo=E-commerce-Site&theme=tokyonight&hide_border=true&description_lines_count=3)](https://github.com/whiteblueskyss/E-commerce-Site)
 
+<!-- 
 *Full-stack e-commerce site with authentication, cart, payment integration using MERN stack & Stripe.*
+-->
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🐦 X-Clone Social Media**
+**X-Clone Social Media**
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=whiteblueskyss&repo=x-clone&theme=tokyonight&hide_border=true&description_lines_count=3)](https://github.com/whiteblueskyss/x-clone)
 
@@ -132,8 +135,9 @@
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=whiteblueskyss&repo=IICTLibrary&theme=tokyonight&hide_border=true&description_lines_count=3)](https://github.com/whiteblueskyss/IICTLibrary)
 
+<!-- 
 *Library management system with book search, borrowing history using PHP, MySQL & JavaScript.*
-
+-->
 </td>
 </tr>
 </table>
@@ -150,15 +154,15 @@
 
 </div>
 
-While algorithms and data structures occupy my mind, my soul finds its rhythm on the sports field. I'm that rare breed who trades keyboards for cleats more often than most developers would dare to admit.
+While algorithms and data structures occupy my mind, my soul finds its rhythm on the sports field.
 
-- ⚽ **Football Strategist** - Where tactical formations meet passionate play, every match is like architecting a complex system
-- 🏏 **Cricket Analyst** - Love the chess-like mental game mixed with explosive action, much like debugging complex code
-- 🏐 **Volleyball Enthusiast** - Quick reflexes from competitive programming translate perfectly to lightning-fast net plays
-- 🏃‍♂️ **Endurance Runner** - Half Marathon finisher (21.1 km) because persistence pays off in both running and coding!
-
-*Fun fact: I probably spend more time analyzing team formations than system architecture, but both require the same strategic mindset and love for optimization!*
-
+- ⚽ **Football Strategist** 
+- 🏏 **Cricket Analyst** 
+- 🏐 **Volleyball Enthusiast** 
+- 🏃‍♂️ **Endurance Runner**
+  
+<!--*Fun fact: I probably spend more time analyzing team formations than system architecture, but both require the same strategic mindset and love for optimization!*
+-->
 ---
 
 ## 📫 Let's Connect!
