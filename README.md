@@ -125,9 +125,9 @@
 **X-Clone Social Media**
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=whiteblueskyss&repo=x-clone&theme=tokyonight&hide_border=true&description_lines_count=3)](https://github.com/whiteblueskyss/x-clone)
-
+<!--
 *Twitter-inspired platform with real-time posts, comments, likes using MERN stack & TailwindCSS.*
-
+-->
 </td>
 <td width="50%">
 
@@ -156,10 +156,10 @@
 
 While algorithms and data structures occupy my mind, my soul finds its rhythm on the sports field.
 
-- ⚽ **Football Strategist** 
-- 🏏 **Cricket Analyst** 
-- 🏐 **Volleyball Enthusiast** 
-- 🏃‍♂️ **Endurance Runner**
+- ⚽ **Football** 
+- 🏏 **Cricket** 
+- 🏐 **Volleyball** 
+- 🏃‍♂️ **Running**
   
 <!--*Fun fact: I probably spend more time analyzing team formations than system architecture, but both require the same strategic mindset and love for optimization!*
 -->
