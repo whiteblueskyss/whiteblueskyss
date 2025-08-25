@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
 > *"Code like a poet, debug like a detective."*
 
@@ -16,7 +16,8 @@
 
 💡 **Passionate about**: Competitive programming, building scalable web applications, and exploring blockchain technology
 
-🧑‍💻 **Currently working on**: Enhancing my skills in full-stack development and modern web technologies
+💻 **Currently Working on:** Enhancing my skills in full-stack development and modern web technologies. 
+
 ---
 
 ## 🏆 Competitive Programming & Achievements
