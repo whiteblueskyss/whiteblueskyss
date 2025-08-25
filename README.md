@@ -16,8 +16,7 @@
 
 💡 **Passionate about**: Competitive programming, building scalable web applications, and exploring blockchain technology
 
-🌱 **Currently exploring**: Advanced blockchain development and decentralized applications
-
+🧑‍💻 **Currently working on**: Enhancing my skills in full-stack development and modern web technologies
 ---
 
 ## 🏆 Competitive Programming & Achievements
