@@ -1,4 +1,4 @@
-# Selim
+# MD Selim
 
 Software Engineer at US-Bangla Group  
 Focused on scalable systems, clean architecture, and modern backend development
@@ -57,7 +57,7 @@ https://github.com/whiteblueskyss/E-Certificate-on-Ethereum-Blockchain
 Blockchain-based certificate verification system using smart contracts
 
 **LedgerFlow**  
-https://github.com/whiteblueskyss/E-Certificate-on-Ethereum-Blockchain  
+https://github.com/whiteblueskyss/LedgerFlow  
 System for managing and tracking transactional workflows
 
 ---
